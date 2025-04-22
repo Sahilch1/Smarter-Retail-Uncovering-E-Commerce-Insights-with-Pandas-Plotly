@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Data Analysis with Python
+# 🛍️ Smarter Retail: Uncovering E-Commerce Insights with Pandas & Plotly
 
 This project demonstrates the analysis of an E-Commerce dataset using Python libraries like Pandas and Plotly. It focuses on data preprocessing, exploration, and visualization to extract actionable insights about products, customer behavior, and regional sales performance.
 
